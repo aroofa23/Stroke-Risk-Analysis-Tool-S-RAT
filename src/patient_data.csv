@@ -1,0 +1,9 @@
+id,name,age,hypertension,heart_disease,avg_glucose_level,bmi,gender_le,ever_married_le,work_type_le,smoking_status_le,residence_type_le
+12345,Richard,12,1,1,90.0,4.0,Male,Yes,Private,formerly smoked,Rural
+200,bhav,87,1,1,250.0,48.0,Male,Yes,Self-employed,smokes,Urban
+300,Matt,23,0,1,80.0,20.0,Male,Yes,Private,smokes,Urban
+3042,matt1,70,1,1,245.0,40.0,Male,Yes,Private,smokes,Rural
+3043,matt2,70,1,1,245.0,40.0,Male,Yes,Private,smokes,Rural
+9897,test,100,1,1,1.0,50.0,Female,Yes,Private,smokes,Rural
+123214151,test123,12312,1,1,1123.0,131313.0,Male,Yes,Private,formerly smoked,Rural
+123,Matt,23,1,1,234.0,23.0,Male,Yes,Private,formerly smoked,Rural

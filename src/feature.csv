@@ -1,0 +1,2 @@
+age,hypertension,heart_disease,avg_glucose_level,bmi,gender_le,ever_married_le,work_type_le,smoking_status_le,residence_type_le
+0.27978515625,1.0,1.0,0.8257778598467361,0.14547537227949597,1.0,1.0,0.5,0.3333333333333333,0.0
